@@ -1,5 +1,5 @@
 # GoogleFinanceScrape
-This Repository Is Used to Scrape Current Stock Value from NSE. It can also Scrape other Stock Details. 
+This Repository Is Used to Scrape Current Stock Value from Google Finance for NSE. It can also Scrape other Stock Details. 
 
 Make Sure to add the googleFinance.py file to the directory you want to run the code in. 
 Look at the Sample Code to get Stock Values from Google Finance 
