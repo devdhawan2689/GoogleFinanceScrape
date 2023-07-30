@@ -8,5 +8,5 @@ Look at the Sample Code to get Stock Values from Google Finance
 
 Scrapping the Following Data 
 
-![image](https://github.com/devdhawan2689/GoogleFinanceScrape/assets/54425780/d87e589a-d64a-44ed-b199-ee42e59769f4)
+![image](https://github.com/devdhawan2689/GoogleFinanceScrape/assets/54425780/c0866608-c138-4c7a-82a2-98dbc8a2a4bf)
 
